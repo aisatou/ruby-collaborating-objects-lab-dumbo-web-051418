@@ -10,7 +10,7 @@ class Artist
   end
   
   def add_song(songs)
-    emd
+  end
     
   
 end
