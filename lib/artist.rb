@@ -9,7 +9,8 @@ class Artist
     @@all << self
   end
   
-  def songs
+  def add_song(songs)
+    emd
     
   
 end
