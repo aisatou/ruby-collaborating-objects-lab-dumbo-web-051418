@@ -8,5 +8,7 @@ class Artist
     @@all << self
   end
   
+  def songs
+    
   
 end
